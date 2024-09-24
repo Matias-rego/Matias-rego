@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hola, mi nombre es Matias Rego.👋
 
-#actualmente estoy estudiando ingenieria en sistema de la información
+actualmente estoy estudiando ingenieria en sistema de la información💻
 <!--
 **Matias-rego/Matias-rego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
